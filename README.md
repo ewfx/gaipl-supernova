@@ -44,7 +44,7 @@ execute the python file which opens up the UI that interacts with LLM upon submi
 
 ## 🏗️ Tech Stack
 Python
-Google Gemini LLM
+Google Gemini LLM - gemini-1.5-pro
 Gradio for UI
 
 ## 👥 Team
