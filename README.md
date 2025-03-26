@@ -43,8 +43,8 @@ Get API key for invoking Google Gemini LLM
 execute the python file which opens up the UI that interacts with LLM upon submission of query from user
 
 ## 🏗️ Tech Stack
-Python
-Google Gemini LLM - gemini-1.5-pro
+Python, 
+Google Gemini LLM - gemini-1.5-pro,
 Gradio for UI
 
 ## 👥 Team
