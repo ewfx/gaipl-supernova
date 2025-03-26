@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+We are trying to build an integrated platfrom support tool which assists the platform support team to address any issues, provides references to past issues and enables them to monitor applications through integrated tools like splunk, appD. 
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
